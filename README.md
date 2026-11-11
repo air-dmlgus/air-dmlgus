@@ -10,9 +10,8 @@ AI와 백엔드 개발을 공부하며 문제 해결 역량을 키워가고 있�
 
 ## About Me
 
-- 경기대학교
+- 경기대학교 건축공학과
 - AI · Backend Development
-- 새로운 기술을 배우고 실제 문제를 해결하는 개발자를 목표로 성장하고 있습니다.
 
 ## Education & Certifications
 
