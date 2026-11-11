@@ -41,7 +41,7 @@ AI와 백엔드 개발을 공부하며 문제 해결 역량을 키워가고 있�
 | **Backend** | <img src="https://skillicons.dev/icons?i=java,spring,django,fastapi&theme=dark" alt="Java, Spring Boot, Django, FastAPI" height="42" /> <br/> Java · Spring Boot · Django · FastAPI |
 | **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=azure,aws,docker,githubactions&theme=dark" alt="Azure, AWS, Docker, GitHub Actions" height="42" /> <br/> Azure · AWS · Docker · GitHub Actions · Cloud Computing |
 | **AI & Data** | <img src="https://skillicons.dev/icons?i=python,pytorch,mysql,postgres&theme=dark" alt="Python, PyTorch, MySQL, PostgreSQL" height="42" /> <br/> Python · PyTorch · **YOLOv5s** · MySQL · PostgreSQL |
-| **Development Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse&theme=dark" alt="Git, GitHub, VS Code, Eclipse" height="42" /> <br/> Git · GitHub · VS Code · Eclipse |
+| **Development Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse&theme=dark" alt="Git, GitHub, VS Code, Eclipse" height="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" height="42" /> <br/> Git · GitHub · VS Code · Eclipse · Jupyter Notebook |
 
 ## GitHub Stats
 
