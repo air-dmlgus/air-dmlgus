@@ -19,7 +19,10 @@ AI와 백엔드 개발을 공부하며 문제 해결 역량을 키워가고 있�
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=java,spring,python,django,mysql,postgres,git,github,vscode,eclipse)
+![Skills](https://skillicons.dev/icons?i=java,spring,python,django,mysql,postgres,git,github,vscode,eclipse,azure)
+
+![Cloud Computing](https://img.shields.io/badge/Cloud-Computing-2D6A9F?style=for-the-badge&logo=icloud&logoColor=white)
+![YOLOv5s](https://img.shields.io/badge/YOLO-v5s-00FFFF?style=for-the-badge&logoColor=black)
 
 </div>
 
