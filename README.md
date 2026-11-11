@@ -26,8 +26,8 @@ AI와 백엔드 개발을 공부하며 문제 해결 역량을 키워가고 있�
 
 | 프로젝트 | 주요 내용 |
 |:---|:---|
-| 하우스링크 | 공공데이터 기반 주거지 분석 및 추천 |
-| Signal Eye | AI 기반 교통표지판 인식 및 음성 안내 시스템 |
+| [HouseLink](https://github.com/air-dmlgus/HouseLink) | 주거지 분석 및 추천 (간소화 데모 포함) |
+| [Signal Eye](https://github.com/air-dmlgus/Signal-Eye) | 교통표지판 인식·음성 안내 (간소화 데모 포함) |
 | InspirAItion | AI기반 이미지 생성 플랫폼 |
 | 건설중장비 객체 인식 시스템 | YOLOv5s 기반 객체 인식 |
 
