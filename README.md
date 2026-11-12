@@ -51,3 +51,8 @@ AI와 백엔드 개발을 공부하며 문제 해결 역량을 키워가고 있�
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=air-dmlgus&layout=compact&theme=github_dark)
 
 </div>
+
+### Graduation Capstone · Construction Equipment Object Detection
+
+- **YOLOv5s / PyTorch / OpenCV** — 건설중장비 AVM 영상 객체 인식 프로젝트
+- [포트폴리오용 예제 코드 및 실행 안내](https://github.com/air-dmlgus/air-dmlgus/tree/main/projects/construction-equipment-detection) *(원본 코드가 아닌 별도 재구현)*
