@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.pt
+*.onnx
+*.mp4
+*.avi
+*.jsonl
+.env
