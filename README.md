@@ -52,3 +52,8 @@ AI와 백엔드 개발을 공부하며 문제 해결 역량을 키워가고 있�
 
 </div>
 
+
+### Fair Duty Scheduler · 군 근무표 자동 배정 시스템
+
+- **Python / 데이터 기반 배정** — 약 60명 대상 피로도 설문 경험을 바탕으로 근무표 자동화 로직을 재구현
+- [코드 및 프로젝트 설명](https://github.com/air-dmlgus/air-dmlgus/tree/main/projects/fair-duty-scheduler) *(원본 코드가 아닌 포트폴리오 예제)*
